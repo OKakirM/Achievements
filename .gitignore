@@ -58,3 +58,5 @@ nunit-*.xml
 
 .git/
 .github/
+/AchievementsMVC/.vs
+/AchievementsMVVM/.vs
